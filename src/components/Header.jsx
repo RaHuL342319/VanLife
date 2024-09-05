@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <header>
       <Link className="site-logo" to="/">
-        #VANLIFE
+        VANLIFE
       </Link>
       <nav>
         <NavLink
